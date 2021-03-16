@@ -1,4 +1,4 @@
-# Tecnicas-de-Programacao
+# Técnicas de Programação
 Trabalho Final desenvolvido na disciplina de Técnicas de Programação.
  ## 1 Descrição
 O objetivo deste trabalho é implementar um pequeno programa em C++, usando um projeto no Code::Blocks. O trabalho deve ser desenvolvido de acordo com a Seção 2. O trabalho vale 15 (quinze) ponrtos da média final. Todos os membros do grupo devem trabalhar colaborativamente, discutindo amplamente todas as decisões tomadas na implementação. Trabalhos que não compilam não possuem condições de avaliação e valem automaticamente 0 (zero). Também serão anulados trabalhos cuja cópia da internet for comprovada em qualquer momento, bem como cópia de trabalhos de outros grupos (sendo anuladas todas as cópias). A compilação e os testes serão efetuados em Linux, portanto, é altamente recomendável que o trabalho seja testado, pelo menos uma vez, nessa plataforma. Além dos testes de caixa preta (resolução do problema), serão avaliados no teste de caixa clara:

@@ -1,0 +1,161 @@
+# depslib dependency file v1.0
+1576544217 source:/media/sf_TP_-_Copia/DiskBtree/main.cpp
+	<iostream>
+	"includes/dBTree.h"
+	"includes/intserial.h"
+	<iostream>
+	"includes/dBTree.h"
+	"includes/intserial.h"
+	<iostream>
+	"includes/dBTree.h"
+	"includes/intserial.h"
+
+1576502001 intserial.h"
+
+1576156332 source:/media/sf_TP_-_Copia/DiskBtree/src/intserial.cpp
+	"../includes/intserial.h"
+	"../includes/intserial.h"
+	"../includes/intserial.h"
+
+1576156332 es/intserial.h"
+
+1576156290 /media/sf_TP_-_Copia/DiskBtree/includes/intserial.h
+	"serializable.h"
+	"serializable.h"
+	"serializable.h"
+
+1576156290 ble.h"
+
+1576156274 /media/sf_TP_-_Copia/DiskBtree/includes/serializable.h
+	<string>
+	<string>
+	<string>
+
+1576502021 
+
+1576156492 source:/media/sf_TP_-_Copia/DiskBtree/src/header.cpp
+	"../includes/header.h"
+	"../includes/header.h"
+	"../includes/header.h"
+
+1576156492 es/header.h"
+
+1576156446 /media/sf_TP_-_Copia/DiskBtree/includes/header.h
+	"serializable.h"
+	<iostream>
+	"serializable.h"
+	<iostream>
+	"serializable.h"
+	<iostream>
+
+1576157287 /media/sf_TP_-_Copia/DiskBtree/includes/dBtree.h
+	<fstream>
+	<type_traits>
+	"serializable.h"
+	"header.h"
+	"BtreeNode.h"
+
+1576354827 .h"
+
+1576544051 /media/sf_TP_-_Copia/DiskBtree/includes/dBTree.h
+	<fstream>
+	<type_traits>
+	"serializable.h"
+	"header.h"
+	"BtreeNode.h"
+	<fstream>
+	<type_traits>
+	<vector>
+	"serializable.h"
+	"header.h"
+	"BtreeNode.h"
+	<fstream>
+	<type_traits>
+	<vector>
+	"serializable.h"
+	"header.h"
+	"BtreeNode.h"
+
+1576345159 /media/sf_TP_-_Copia/DiskBtree/includes/BtreeNode.h
+	<type_traits>
+	<iostream>
+	<string>
+	"serializable.h"
+	"dBTree.h"
+	<type_traits>
+	<iostream>
+	<string>
+	"serializable.h"
+	"dBTree.h"
+
+1576261777 source:c:\users\aluno\downloads\diskbtree\main.cpp
+	<iostream>
+	"includes/dBTree.h"
+	"includes/intserial.h"
+
+1576263325 c:\users\aluno\downloads\diskbtree\includes\dbtree.h
+	<fstream>
+	<type_traits>
+	"serializable.h"
+	"header.h"
+	"BtreeNode.h"
+
+1576156274 c:\users\aluno\downloads\diskbtree\includes\serializable.h
+	<string>
+
+1576156446 c:\users\aluno\downloads\diskbtree\includes\header.h
+	"serializable.h"
+	<iostream>
+
+1576190804 c:\users\aluno\downloads\diskbtree\includes\btreenode.h
+	<type_traits>
+	<iostream>
+	<string>
+	"serializable.h"
+	"dBTree.h"
+
+1576156290 c:\users\aluno\downloads\diskbtree\includes\intserial.h
+	"serializable.h"
+
+1576156492 source:c:\users\aluno\downloads\diskbtree\src\header.cpp
+	"../includes/header.h"
+
+1576156332 source:c:\users\aluno\downloads\diskbtree\src\intserial.cpp
+	"../includes/intserial.h"
+
+1576156492 source:c:\users\lucas\downloads\tp - copia\diskbtree\src\header.cpp
+	"../includes/header.h"
+
+1576156446 c:\users\lucas\downloads\tp - copia\diskbtree\includes\header.h
+	"serializable.h"
+	<iostream>
+
+1576156274 c:\users\lucas\downloads\tp - copia\diskbtree\includes\serializable.h
+	<string>
+
+1576156332 source:c:\users\lucas\downloads\tp - copia\diskbtree\src\intserial.cpp
+	"../includes/intserial.h"
+
+1576156290 c:\users\lucas\downloads\tp - copia\diskbtree\includes\intserial.h
+	"serializable.h"
+
+1576544662 source:c:\users\lucas\downloads\tp - copia\diskbtree\main.cpp
+	<iostream>
+	"includes/dBTree.h"
+	"includes/intserial.h"
+
+1576544051 c:\users\lucas\downloads\tp - copia\diskbtree\includes\dbtree.h
+	<fstream>
+	<type_traits>
+	<vector>
+	"serializable.h"
+	"header.h"
+	"BtreeNode.h"
+
+1576544185 c:\users\lucas\downloads\tp - copia\diskbtree\includes\btreenode.h
+	<type_traits>
+	<iostream>
+	<string>
+	"serializable.h"
+	"dBTree.h"
+
